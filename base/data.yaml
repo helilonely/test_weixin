@@ -1,0 +1,4 @@
+#存储元素定位的文件， sheet名称
+elements_file: data/data.xlsx
+MainPage: mainPage
+ContactsPage: 通讯录
